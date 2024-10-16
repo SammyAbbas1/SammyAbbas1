@@ -3,7 +3,7 @@
 - 🌱 Currently, I am a second-year Computer Engineering and Management student at McMaster University.
 - 💞️ I’m eager to learn new skills, provide valuable insights, and contribute to any available opportunities. Feel free to reach out!
 - 📫 How to reach me:
-- LinkedIn:www.linkedin.com/in/sammyabbas
+- LinkedIn: www.linkedin.com/in/sammyabbas
 - School Email: abbass50@mcmaster.ca
 - Personal Email: sammy_abbas@yahoo.com
 - 😄 Pronouns: He/Him
