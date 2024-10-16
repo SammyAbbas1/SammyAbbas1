@@ -7,7 +7,7 @@
 - School Email: abbass50@mcmaster.ca
 - Personal Email: sammy_abbas@yahoo.com
 - 😄 Pronouns: He/Him
-- ⚡  I’m a big movie buff and enjoy relaxing with a good film. Here are some that I think everyone should see at least once:
+- ⚡  Fun Fact: I’m a big movie buff and enjoy relaxing with a good film. Here are some that I think everyone should see at least once:
 - Good Will Hunting
 - Shutter Island
 - Interstellar
