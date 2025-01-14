@@ -2,6 +2,7 @@
 - 🌱 Currently, I am a second-year Computer Engineering and Management student at McMaster University.
 - 💞️ I’m passionate about embedded systems, full-stack development, firmware, hardware, and software development—essentially, all things tech!
 - 👀 I’m eager to learn new skills, provide valuable insights, and contribute to any available opportunities. Feel free to reach out!
+- ✨ Skills: Comfortable with Python, C, C++, JavaScript, HTML, CSS.
 - 📫 How to reach me:
      - LinkedIn: www.linkedin.com/in/sammyabbas
      - School Email: abbass50@mcmaster.ca
